@@ -12,7 +12,6 @@ A responsive and modern website built using **HTML**, **CSS**, **JavaScript**, *
 - **Bootstrap 5** – Responsive design and components
 - **jQuery** – DOM manipulation and dynamic features
 
----
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
