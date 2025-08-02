@@ -12,11 +12,15 @@ A responsive and modern website built using **HTML**, **CSS**, **JavaScript**, *
 - **Bootstrap 5** – Responsive design and components
 - **jQuery** – DOM manipulation and dynamic features
 
+## 📢 Feedback
 
-## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+If you have any feedback, please reach out to us at proksy.design@gmail.com
+
+
+## 👨‍💻 Author
+
+- [@prodanicc](https://www.instagram.com/prodanicc)
 
 
 
-## 📞 Contact
-Email: jovan.prodanic@outlook.com(mailto:jovan.prodanic@outlook.com)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
